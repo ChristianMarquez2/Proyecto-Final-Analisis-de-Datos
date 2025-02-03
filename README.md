@@ -18,3 +18,6 @@ Dashboards Power BI:
 
 Tumores Cerebrales
 https://app.powerbi.com/groups/me/reports/a01c843c-5fff-4656-9e50-e9771117048f/be041ee73e01b29a2ac0?experience=power-bi
+
+Eventos Deportivos:
+https://app.powerbi.com/groups/me/reports/cdef89fd-9e0b-4f09-9522-062b37fe3b9c/7e768128e7782c18d585?experience=power-bi
