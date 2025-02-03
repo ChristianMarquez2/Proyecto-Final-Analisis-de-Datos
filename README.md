@@ -3,7 +3,7 @@ Este es el proyecto final de la Asignatura Analisis de Datos
 
 Integrantes:
 - Sebastian Chico
-- Mateo
+- Mateo Morán
 - Odaliz
 - Christian Márquez
 
